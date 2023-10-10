@@ -3,7 +3,7 @@ body {
 }
 ul {
     text-align:left;
-    font-size:30px;
+    font-size:30%;
     position: relative;
     background-color: white;
     display:inline;
@@ -11,7 +11,7 @@ ul {
 h1 {
     color: white;
     text-align: center;
-    font-size: 100%;
+    font-size: 50%;
 }
 img {
     display: block;
